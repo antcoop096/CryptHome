@@ -1,4 +1,4 @@
-#import all necessary libraries
+#import libraries
 import os
 import turtle
 from tkinter import *
